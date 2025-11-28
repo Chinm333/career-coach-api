@@ -1,0 +1,3 @@
+## Career Coach API
+
+Take linkedin from me > Extract all details i.e. work history, education etc from linkedin > Extracts plausible skills from my linkedin > Has a conversation to understand what kind of work I love (find out what kind of work the candidate will love and what kind of job will they thrive) > Talks to companies to understand their requirement in natural language > matchmakers candidates with req

@@ -1,0 +1,8 @@
+[
+  { "key": "passion", "question": "How much do you love what you do?", "help": "Reflects your passion and intrinsic motivation." },
+  { "key": "mission", "question": "How meaningful does your work feel to you?", "help": "Measures sense of purpose/mission." },
+  { "key": "vocation", "question": "How much do you believe the world values your work?", "help": "Assesses external value, vocation." },
+  { "key": "mastery", "question": "How skilled/masterful do you feel in your craft?", "help": "Self-assessment of competence/mastery." },
+  { "key": "growth", "question": "How often do you seek out new challenges at work?", "help": "Curiosity, growth mindset." },
+  { "key": "impact", "question": "How much impact do you feel you make in your job?", "help": "Measures sense of contribution." }
+]
